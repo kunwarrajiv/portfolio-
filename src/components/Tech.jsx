@@ -17,7 +17,7 @@ import { BiLogoPostgresql } from "react-icons/bi";
 import { DiMysql } from "react-icons/di";
 
 import { FaAws } from "react-icons/fa";
-className="text-blue-600 hover:text-blue-800 transition-colors duration-300 cursor-pointer"
+
 const Tech = () => {
   return (
     <div className=" border-b border-neutral-800 pb-24">
